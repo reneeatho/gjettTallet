@@ -1,0 +1,16 @@
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/bin/Debug/net5.0/GjettTallet
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/bin/Debug/net5.0/GjettTallet.deps.json
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/bin/Debug/net5.0/GjettTallet.runtimeconfig.json
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/bin/Debug/net5.0/GjettTallet.runtimeconfig.dev.json
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/bin/Debug/net5.0/GjettTallet.dll
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/bin/Debug/net5.0/GjettTallet.pdb
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.csproj.AssemblyReference.cache
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.AssemblyInfoInputs.cache
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.AssemblyInfo.cs
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.csproj.CoreCompileInputs.cache
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.dll
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/refint/GjettTallet.dll
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.pdb
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/GjettTallet.genruntimeconfig.cache
+/Users/reneethorstensen/Documents/Dokumenter – Renées iMac/Get Academy/Modul3/Uke2/GjettTallet/GjettTallet/obj/Debug/net5.0/ref/GjettTallet.dll
